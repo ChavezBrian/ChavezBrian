@@ -1,1 +1,3 @@
 Soy Brian Chavez, un entusiasta desarrollador full stack de 22 años. Mi formación comenzó en la Universidad de Tres de Febrero (UNTREF), y perfeccioné mis habilidades en SoyHenry, completando el curso de Full-Stack Developer. Aunque carezco de experiencia laboral, mi enfoque en el trabajo en equipo, resiliencia y resolución de problemas se combina con empatía y autodidactismo. Estoy emocionado por ingresar al mundo de la tecnología, ansioso por contribuir a proyectos innovadores y conectar con profesionales del sector.
+
+Tengo experiencia en: HTML, CSS, JavaScript, React.js, Redux, Node.js, Next.js, PostgreSQL, Express y mas...
